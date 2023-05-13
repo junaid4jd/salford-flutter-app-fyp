@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "177944454961",
+    "project_id": "salford-spa-flutter",
+    "storage_bucket": "salford-spa-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177944454961:android:5b0878802c48ec8198b210",
+        "android_client_info": {
+          "package_name": "com.salfordSpa.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177944454961-18ebeuv4jd5u3rcoa9cr91msq7gqv409.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCboHIGPmuxuTwBohN0Q196dZJWbqwuLGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177944454961-18ebeuv4jd5u3rcoa9cr91msq7gqv409.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
